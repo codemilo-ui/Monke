@@ -1,4 +1,4 @@
-import sys # to access the system
+import sys
 import cv2
 img = cv2.imread("monk.jpg", cv2.IMREAD_ANYCOLOR)
  
